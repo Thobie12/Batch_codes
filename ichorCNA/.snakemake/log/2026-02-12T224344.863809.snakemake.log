@@ -1,0 +1,7 @@
+Building DAG of jobs...
+MissingInputException in line 21 of /cluster/home/t922316uhn/ichorCNA/scripts/snakemake/ichorCNA.test:
+Missing input files for rule mosdepth:
+    output: /cluster/projects/pughlab/myeloma/projects/MM_cell_drugs/WGS_Pipeline/ichorCNA/readDepth/423901-CFTMT_0004_3_H1.bin1000000.regions.bed.gz, /cluster/projects/pughlab/myeloma/projects/MM_cell_drugs/WGS_Pipeline/ichorCNA/readDepth/423901-CFTMT_0004_3_H1.bin1000000.regions.wig, /cluster/projects/pughlab/myeloma/projects/MM_cell_drugs/WGS_Pipeline/ichorCNA/readDepth/423901-CFTMT_0004_3_H1.bin1000000.mosdepth.global.dist.txt, /cluster/projects/pughlab/myeloma/projects/MM_cell_drugs/WGS_Pipeline/ichorCNA/readDepth/423901-CFTMT_0004_3_H1.bin1000000.mosdepth.summary.txt, /cluster/projects/pughlab/myeloma/projects/MM_cell_drugs/WGS_Pipeline/ichorCNA/readDepth/423901-CFTMT_0004_3_H1.bin1000000.per-base.bed.gz
+    wildcards: sample=423901-CFTMT_0004_3_H1, binSize=1000000
+    affected files:
+        /cluster/projects/pughlab/myeloma/projects/MM_cell_drugs/WGS_Pipeline/ref/WholeGenomeFasta/Homo_sapiens_assembly38.fasta

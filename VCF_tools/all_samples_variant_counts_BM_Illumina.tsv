@@ -1,0 +1,10 @@
+Sample	norm	norm.PASS	norm.PASS.ADgt1	norm.PASS.ADgt1.snp
+TFRIM4_0032_Bm_P_WG_M4-HP-01-01-O-DNA.filter.deduped.recalibrated.mutect2.filtered.vep.PASS_VAF_above_0.1_encode_filtered_STR_filtered	633	633	633	467
+TFRIM4_0057_Bm_P_WG_CA-07-01-O-DNA.mutect2.filtered.vep.PASS_VAF_above_0.1_encode_filtered_STR_filtered	2626	2626	2623	2263
+TFRIM4_0058_Bm_P_WG_CA-08-01-O-DNA.mutect2.filtered.vep.PASS_VAF_above_0.1_encode_filtered_STR_filtered	4087	4087	4084	3607
+TFRIM4_0058_Bm_P_WG_CA-08.filter.deduped.recalibrated.bam_merged.PASS_VAF_above_0.1_encode_filtered_STR_filtered	3616	3616	3615	3331
+TFRIM4_0059_Bm_P_WG_FZ-08-01-O-DNA.mutect2.filtered.vep.PASS_VAF_above_0.1_encode_filtered_STR_filtered	3154	3154	3150	2870
+TFRIM4_0060_Bm_P_WG_FZ-09-01-O-DNA.mutect2.filtered.vep.PASS_VAF_above_0.1_encode_filtered_STR_filtered	3822	3822	3822	2852
+TFRIM4_0062_Bm_P_WG_RE-01-01-O-DNA.mutect2.filtered.vep.PASS_VAF_above_0.1_encode_filtered_STR_filtered	3750	3750	3750	2829
+TFRIM4_0179_Bm_P_WG_HP-05-01-O-DNA.mutect2.filtered.vep.PASS_VAF_above_0.1_encode_filtered_STR_filtered	3424	3424	3420	3084
+TFRIM4_0183_Bm_P_WG_VA-09-01-O-DNA.mutect2.filtered.vep.PASS_VAF_above_0.1_encode_filtered_STR_filtered	4681	4681	4680	4058
